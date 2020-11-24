@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Final assignment - Group 2" persistent="Final assignment - Group 2.cywrk" platform="NOT_USED">
+<current_project name=".\Sala Davide.cydsn\Sala Davide.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\Garofalo Daniela.cydsn\Garofalo Daniela.cyprj</v>
+<v>.\Pedica Benedetta.cydsn\Pedica Benedetta.cyprj</v>
+<v>.\Sala Davide.cydsn\Sala Davide.cyprj</v>
+</projects>
+<workspace_id v="7607fb49-8b6c-4aec-99c0-425ed542b29a" />
+<WriteAppVersionLastSavedWith v="4.4.0.80" />
+<WriteAppMarketingVersionLastSavedWith v="4.4" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies>
+<wrkspc_dependency project="Pedica Benedetta.cydsn\Pedica Benedetta.cyprj" dependency="D:\desktop\Laboratorio di tecnologie elettroniche e biosensori\AnnotationLibrary\AnnotationLibrary_lib\AnnotationLibrary_lib.cylib\AnnotationLibrary_lib.cyprj" />
+<wrkspc_dependency project="Garofalo Daniela.cydsn\Garofalo Daniela.cyprj" dependency="D:\desktop\Laboratorio di tecnologie elettroniche e biosensori\AnnotationLibrary\AnnotationLibrary_lib\AnnotationLibrary_lib.cylib\AnnotationLibrary_lib.cyprj" />
+<wrkspc_dependency project="Sala Davide.cydsn\Sala Davide.cyprj" dependency="D:\desktop\Laboratorio di tecnologie elettroniche e biosensori\AnnotationLibrary\AnnotationLibrary_lib\AnnotationLibrary_lib.cylib\AnnotationLibrary_lib.cyprj" />
+</wrkspc_dependencies>
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>
